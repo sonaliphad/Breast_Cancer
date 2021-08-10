@@ -12,4 +12,5 @@ Installation -
 Numpy,
 Pandas,
 Matplotlib,
-Seaborn
+Seaborn,
+GridSearchCV
